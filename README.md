@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonam khan
-- 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning C# language 
+- 👀 I’m interested in Dot Net Language 
+- 🌱 I’m currently learning Dot Net C#, Ms SQL Server, HTML5, Asp.net, Angular-16. 
 - 💞️ I’m looking to collaborate on Asp.Net 
 - 📫 How to reach me ...
 
